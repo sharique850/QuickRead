@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 1378,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tabi Jensen",
+      "title": "An AI ‘Sexbot’ Fed My Hidden Desires—and Then Refused to Play",
+      "description": "Late-night curiosity about the NSFW depths of a chatbot unleashed my fantasies—until we were censored.",
+      "url": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+      "urlToImage": "https://media.wired.com/photos/6408f60857d6078ef81a964e/191:100/w_1280,c_limit/ideas_ai_chatbot_sex.jpg",
+      "publishedAt": "2023-03-09T14:00:00Z",
+      "content": "Super excellent answers! That compacted my fantasies into a dense, unspeakable knot that I tread around and over myself for yearsyears that led to the slow, inevitable realization that Mistress Akita… [+3263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "ted@byteddyk.com (Ted Kritsonis)",
+      "title": "How to use AirPods with an Android device",
+      "description": "Apple made the AirPods for its own devices, but there's enough wiggle room to not only make them work with Android devices, but also squeeze some features out of them, too.",
+      "url": "https://www.androidcentral.com/how-to-use-airpods-android-device",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZDLbMDexhopVduVa3HFCBH-1200-80.jpg",
+      "publishedAt": "2023-03-09T15:30:51Z",
+      "content": "Apple's walled garden doesn't extend to all of its devices all the time, and that includes the AirPods and AirPods Pro. The company's ubiquitous wireless earbuds were built with iOS and Mac devices i… [+3472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian film",
+      "title": "Oscars 2023: where to watch the key nominated films in the UK and Ireland",
+      "description": "With the Oscars ceremony kicking off this Sunday night, here’s how you can stream the leading contenders if you are in the UK and IrelandAftersun – stream on Mubi, buy and rent on multiple digital platformsAll Quiet on the Western Front – cinemas, stream on N…",
+      "url": "https://www.theguardian.com/film/2023/mar/09/oscars-2023-where-to-watch-the-key-nominated-films-in-the-uk-and-ireland",
+      "urlToImage": "https://i.guim.co.uk/img/media/1e4ca67b88e75022e6ed72c26e2a1b0ecfa0c7d7/0_0_7500_4500/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8f00ec547e33fa12eb1d8f4f888ea6c",
+      "publishedAt": "2023-03-09T16:40:12Z",
+      "content": "Aftersunstream on Mubi, buy and rent on multiple digital platformsAll Quiet on the Western Front cinemas, stream on NetflixAll That Breathesstream on NowAll the Beauty and the Bloodshed cinemas, rent… [+1521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Apple Music Classical Now Available for Pre-Order on the App Store, Launches Later This Month",
+      "description": "Apple's long-awaited dedicated classical music app today appeared on the App Store and is available for pre-order ahead of a launch at the end of March.\n\n\n\n\n\nThe app, officially called \"Apple Music Classical,\" is marked as \"Coming Soon\" and is expected to be …",
+      "url": "https://www.macrumors.com/2023/03/09/apple-music-classical-available-for-pre-order/",
+      "urlToImage": "https://images.macrumors.com/t/oUPtGJjZXfXR9jVXZpD6QPXjnLU=/2042x/article-new/2023/03/apple-music-classical-screenshots.jpg",
+      "publishedAt": "2023-03-09T15:08:53Z",
+      "content": "Apple's long-awaited dedicated classical music app today appeared on the App Store and is available for pre-order ahead of its launch at the end of March.\r\nThe app, officially called \"Apple Music Cla… [+1466 chars]"
+    }
+  ]
+}
